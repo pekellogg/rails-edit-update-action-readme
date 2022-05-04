@@ -5,3 +5,7 @@
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
+
+Article.create(title: 'An Expose', description: 'Jeff E and the pardoned posse')
+Article.create(title: 'Is FB Bad for Teen Girls?', description: 'FB internal report')
+Article.create(title: 'American Hero', description: 'Frances Haugen biopic')
